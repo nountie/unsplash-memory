@@ -52,7 +52,7 @@ p.time {
 
 .game.win::after {
   content: "You win";
-  font-family: "Pacifico", "cursive";
+  font-family: "Pacifico", "cursive";
   font-size: 100px;
   font-weight: 200;
   width: 100%;

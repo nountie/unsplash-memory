@@ -137,7 +137,9 @@
             el.classList.remove("clicked");
         });
         list.length = 0;
-        score.innerHTML = parseInt(score.innerHTML) - 1;
+        if ((Number(score.innerHTML) !== 0)) {
+            score.innerHTML = parseInt(score.innerHTML) - 1;
+        }
         return 1;
     }
     function hideCards(list) {
