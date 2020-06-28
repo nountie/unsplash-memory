@@ -2,5 +2,5 @@
 Made just for playing with:
 - CSS grid
 - CSS3 animations
-##### Work in progress
+- vanilla js
 ##### [LIVE DEMO](https://nountie.github.io/unsplash-memory)
